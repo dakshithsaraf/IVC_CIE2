@@ -1,0 +1,5 @@
+print("Hello")
+print("My name is Dakshith")   
+print("I am from BSc Data Science")
+print("Section A")
+print("USN 1230028")             
